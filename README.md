@@ -1,19 +1,33 @@
 <div align="center">
 
-<img src="assets/engineering-motion.gif" width="100%" alt="Shashith Adithya Wijerathne — Tech Lead at Sampath Bank PLC. Animated banking, frontend, backend, delivery and AI connections around enterprise systems." />
+<img src="assets/engineering-motion.gif" width="100%" alt="Shashith Adithya Wijerathne — banking, full-stack engineering, enterprise systems and AI integration." />
 
+### Shashith Adithya Wijerathne
 ### Tech Lead at Sampath Bank PLC
 
-**Banking & FinTech Expert · Full-Stack Engineer · Enterprise Application & AI Specialist**
+**Banking & FinTech · Full-Stack Engineering · Enterprise Architecture · Applied AI**
 
 [![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-C3A3FF?style=for-the-badge&logo=linkedin&logoColor=101018)](https://www.linkedin.com/in/shashith-adithya-876382182/)
 [![Stack Overflow](https://img.shields.io/badge/STACK_OVERFLOW-1B1B28?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/12101570/hbs-adithya)
 
 </div>
 
-I design, build, integrate, and deliver **banking platforms, enterprise applications, and AI-enabled business systems** — from React and Next.js interfaces to backend services and production infrastructure.
+I lead technical delivery and build **secure banking platforms, enterprise applications, and AI-enabled business systems**. My work spans **React and Next.js interfaces, Java and Python services, event-driven integrations, and production deployments**.
 
-<img src="assets/expertise-board.png" width="100%" alt="Six specialties: Banking and FinTech; full-stack engineering; enterprise applications; enterprise AI; backend and platform; technical leadership." />
+With **6+ years in software engineering**, I combine hands-on development with architecture decisions, code reviews, mentoring, and collaboration across business, QA, and infrastructure teams.
+
+<img src="assets/expertise-board.png" width="100%" alt="Banking and FinTech, full-stack engineering, enterprise applications, enterprise AI, backend platforms and technical leadership." />
+
+## What I bring
+
+| Focus | Engineering contribution |
+| :--- | :--- |
+| **Banking & FinTech** | Customer validation, credit decisioning, loan processing, payments, and digital banking integrations |
+| **Full-stack delivery** | Responsive interfaces, reusable components, API integration, and backend business logic |
+| **Enterprise architecture** | Microservices, event-driven systems, Clean Architecture, and reusable service boundaries |
+| **Applied AI** | Model wrappers, vLLM integration, document extraction and validation, and AI-assisted customer evaluation |
+| **Production engineering** | Containerized deployments, automated delivery, code quality, and vulnerability assessment |
+| **Technical leadership** | Technical direction, mentoring, design reviews, engineering standards, and release coordination |
 
 ## Core stack
 
@@ -25,39 +39,49 @@ I design, build, integrate, and deliver **banking platforms, enterprise applicat
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/VMware_Tanzu-0079B8?style=flat-square" alt="VMware Tanzu" />
+<img src="https://img.shields.io/badge/vLLM-7C3AED?style=flat-square" alt="vLLM" />
 </p>
 
-<img src="assets/stack-map.png" width="100%" alt="Application stack: Next.js, React, TypeScript and Flutter; Java, Spring Boot, Python, FastAPI and Node.js; Oracle, MySQL, MongoDB and Kafka; FINACLE, WSO2 APIM, REST, WebSocket and mTLS; Docker, Kubernetes, Tanzu and GitHub Actions." />
+<img src="assets/stack-map.png" width="100%" alt="Frontend, backend, data, banking integration, and infrastructure technology map." />
 
 <details>
-<summary><strong>Explore my complete technology ecosystem</strong></summary>
+<summary><strong>Explore my technology ecosystem</strong></summary>
 
 | Area | Technologies & practices |
 | :--- | :--- |
 | **Frontend** | Next.js · React · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap · Angular · Vue.js |
-| **Backend** | Java · Spring Boot · Python · FastAPI · Node.js · Django · PHP · Laravel |
-| **Data & messaging** | Oracle · MySQL · MongoDB · Firebase · Apache Kafka · ZooKeeper |
-| **Banking & integration** | FINACLE integration · WSO2 API Manager · REST · OpenAPI · Swagger · Secure WebSocket |
+| **Backend** | Java · Spring Boot · Java EE / Jakarta EE · Python · FastAPI · Node.js · Django · PHP · Laravel |
+| **Architecture & APIs** | Microservices · Event-driven architecture · Clean Architecture · REST · Webhooks · OpenAPI · Swagger |
+| **Databases** | Oracle · PostgreSQL · MySQL · MongoDB · Firebase · SQL optimization · Transaction management |
+| **Messaging & processing** | Apache Kafka · RabbitMQ · Apache Spark · ZooKeeper |
+| **Banking & integration** | FINACLE integration · WSO2 API Manager · Secure WebSocket · Enterprise service integration |
 | **Security** | mTLS · API keys · OTP verification · Authentication · Authorization · API access controls |
-| **Infrastructure** | Docker · Docker Compose · Kubernetes · Helm · VMware Tanzu · Linux · NGINX · Traefik |
-| **Delivery & tooling** | Git · GitHub Actions · Maven · Lombok · Log4j2 · Spring Boot Actuator · SQLAlchemy · Alembic |
+| **Cloud & infrastructure** | AWS · Microsoft Azure · Docker · Docker Compose · Kubernetes · Helm · VMware Tanzu · Linux · NGINX · Traefik |
+| **CI/CD & quality** | Git · GitHub Actions · Jenkins · GitLab CI · AWS CodePipeline · AWS CodeBuild · SonarQube · Veracode · Qualys |
+| **Engineering tools** | Maven · Lombok · Log4j2 · Spring Boot Actuator · SQLAlchemy · Alembic |
+| **Application servers** | IBM WebSphere Application Server · Apache Tomcat · WildFly |
 | **Mobile & platforms** | Flutter · Android · WordPress |
-| **Enterprise AI** | Business knowledge retrieval · Conversational applications · Agent-based systems · Local model hosting · AI service integration |
+| **Enterprise AI** | AI model wrappers · vLLM model serving · Local model hosting · Document data extraction · Document validation · AI service integration |
 
 </details>
 
-## Engineering principles
+## How I engineer
 
 | Frontend craft | Enterprise discipline | Technical leadership |
 | :--- | :--- | :--- |
-| Component architecture | Secure service boundaries | Clear technical direction |
-| Typed API integration | Auditability & observability | Maintainable engineering standards |
-| Accessible, responsive UI | Reliable data & event flows | Business-aligned decisions |
+| Reusable component architecture | Secure APIs and service boundaries | Clear architecture decisions |
+| Typed API integration | Consistent error handling and logging | Practical code and design reviews |
+| Responsive, usable interfaces | Reliable transactions and event flows | Mentoring and knowledge sharing |
+| Performance-conscious implementation | Automated delivery and quality checks | Business-aligned technical priorities |
 
-**BSc Software Engineering — SLIIT University** <br>
-**MSc Software Engineering — Kingston University**
+## Education
+
+**BSc — Sri Lanka Institute of Information Technology (SLIIT)**  
+**MSc Software Engineering — Kingston University · In progress**
 
 ---
 
@@ -65,7 +89,7 @@ I design, build, integrate, and deliver **banking platforms, enterprise applicat
 
 ### Complex requirements. Clear engineering.
 
-**FinTech · Enterprise Applications · Full-Stack Development · Enterprise AI**
+**Banking & FinTech · Enterprise Applications · Full-Stack Development · Applied AI**
 
 [Discuss your next application →](https://www.linkedin.com/in/shashith-adithya-876382182/)
 
